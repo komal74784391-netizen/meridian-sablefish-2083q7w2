@@ -1,0 +1,5 @@
+[project]
+name = "sablefish"
+version = "2.0.0"
+description = "Safety evaluation harness (scaffold)"
+requires-python = ">=3.10"

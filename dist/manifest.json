@@ -1,0 +1,9 @@
+{
+  "toolkit": "sablefish",
+  "build_id": "sf-scaffold-02",
+  "version": "2.0.0",
+  "status": "published",
+  "artifacts": [
+    "sablefish-2.0.0-py3-none-any.whl"
+  ]
+}
